@@ -86,7 +86,7 @@ class App extends React.Component {
                         <div id="content-body" className="col-12 col-md-9 col-xl-10 pl-4 pr-4 bd-content">
                             {/* <!-- heading row --> */}
                             <div className="row">
-                                <div className="col-md-12 pt-4 mt-3"><h2>Energy Dashboard</h2></div>
+                                <div className="col-md-12 pt-4 mt-3"><h2>Live Monitoring Dashboard</h2></div>
                             </div>
                             {/* <!-- heading row end-->
         
@@ -154,7 +154,7 @@ class App extends React.Component {
                     <!-- energy tip start --> */}
                             <div className="row">
                                 <div className="col-md-12 pb-3">
-                                    <span className="footer-text-1">Energy Tip: </span><span className="footer-text-2">On warm days, setting a programmable thermostat to a higher setting when you are not at home can help reduce your energy costs
+                                    <span className="footer-text-1">Soltera Energy Saving Tip: </span><span className="footer-text-2">On warm days, setting a programmable thermostat to a higher setting when you are not at home can help reduce your energy costs
                             by approximately 10 percent.</span>
                                 </div>
                             </div>
